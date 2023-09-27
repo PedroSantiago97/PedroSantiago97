@@ -14,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PedroSantiago97&icon=0&color=12)](https://visitcount.itsvg.in)
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
