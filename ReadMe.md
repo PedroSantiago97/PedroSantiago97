@@ -2,7 +2,7 @@
 🔭 Programador iniciante em Python<br>👯 Procuro vagas de Estágio<br>🌱 Atualmente estudo sobre Python e SQL
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/psant_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrique-santiago-b66503258/) 
 
 # 💻 Tech Stack:
