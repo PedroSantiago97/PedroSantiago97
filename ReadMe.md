@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre mim:
 🔭 Programador iniciante em Python<br>👯 Procuro vagas de Estágio<br>🌱 Atualmente estudo sobre Python e SQL
 
 
