@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Programador iniciante em Python<br>👯 Procuro vagas de Estágio<br>🌱 Atualmente estudo sobre Python e SQL
+🔭 Programador iniciante em Java<br>👯 Procuro vagas de Estágio<br>🌱 Atualmente estudo sobre Java e SEUS Frameworks
 
 
 ## 🌐 Redes Sociais:
