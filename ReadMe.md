@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Programador iniciante em Java<br>👯 Procuro vagas de Estágio<br>🌱 Atualmente estudo sobre Java e SEUS Frameworks
+🔭 Programador iniciante em Java<br>👯 Procuro vagas de Estágio/Júnior <br>🌱 Atualmente estudo sobre Java
 
 
 ## 🌐 Redes Sociais:
