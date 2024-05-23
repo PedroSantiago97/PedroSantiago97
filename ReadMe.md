@@ -1,5 +1,5 @@
 # Sobre mim:
-☕Desenvolvedor Java<br>👯 Procuro vagas <br>🌱 Atualmente estudo sobre Java
+☕Desenvolvedor Java<br>👯 Interesse em vagas para Desenvolverdor Java <br>🌱 Atualmente estudo sobre Java
 
 
 ## 🌐 Redes Sociais:
