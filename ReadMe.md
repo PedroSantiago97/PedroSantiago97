@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Programador iniciante em Java<br>👯 Procuro vagas de Estágio/Júnior <br>🌱 Atualmente estudo sobre Java
+![image](https://github.com/PedroSantiago97/PedroSantiago97/assets/128545003/33c8400f-2994-4f5b-875d-3c232fa2e854)Desenvolvedor Java<br>👯 Procuro vagas de Estágio/Júnior <br>🌱 Atualmente estudo sobre Java
 
 
 ## 🌐 Redes Sociais:
