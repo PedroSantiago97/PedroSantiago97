@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro 
 
-🔭 **Working on**: Java | Spring Boot | Microservices  
+🔭 **Working on**: Back-end | Laravel | Microservices  
 🌱 **Learning**: Docker | AWS | Clean Architecture  
 
 
